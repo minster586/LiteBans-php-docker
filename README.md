@@ -1,5 +1,5 @@
 # LiteBans-php-docker
-Docker image for litebans-php
+Docker image for [litebans-php](https://gitlab.com/ruany/litebans-php)
 
 ## Usage
 
