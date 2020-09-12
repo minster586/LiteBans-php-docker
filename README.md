@@ -5,7 +5,7 @@ Docker image for litebans-php
 
 From the CLI:  
 ```bash
-docker run -d -p 8080:80 --name litebans litebans/litebans-php:latest
+docker run -d -p 8080:80 --name litebans dada513/litebans-php:latest
 ```
 This command will run litebans-php and expose it on port 8080.  
 Then, you should import the [`settings.php`](https://gitlab.com/ruany/litebans-php/-/blob/master/inc/settings.php) file to the container.
